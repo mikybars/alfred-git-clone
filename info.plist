@@ -713,8 +713,10 @@ fi</string>
 		<key>workspace_dir</key>
 		<string>~/projects</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string></string>
+	<string>1.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/mperezi/alfred-git-clone</string>
 </dict>
