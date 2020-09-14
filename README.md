@@ -1,3 +1,5 @@
+[![Release](https://github.com/mperezi/alfred-git-clone/workflows/Release/badge.svg)](https://github.com/mperezi/alfred-git-clone/actions?query=workflow%3ARelease)
+
 # alfred-git-clone
 
 An [Alfred workflow](https://www.alfredapp.com/workflows/) to clone git repos like a master 🐑🐑
