@@ -2,7 +2,7 @@
 
 # alfred-git-clone
 
-An [Alfred workflow](https://www.alfredapp.com/workflows/) to clone git repos like a master 🐑🐑
+An [Alfred workflow](https://www.alfredapp.com/workflows/) to clone git repos like a *master* 🐑🐑
 
 ![alfred-git-clone](https://user-images.githubusercontent.com/43891734/93094028-acf31200-f6a1-11ea-9a23-8379f45040dd.gif)
 
