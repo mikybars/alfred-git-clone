@@ -17,6 +17,7 @@ jobs:
         uses: mperezi/build-alfred-workflow@master
         with:
           workflow_dir: .
+          exclude_patterns: .git/* .github/*
 
       - name: Create release
         id: create_release
