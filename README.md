@@ -1,4 +1,4 @@
-[![Release](https://github.com/mperezi/alfred-git-clone/workflows/Release/badge.svg)](https://github.com/mperezi/alfred-git-clone/actions?query=workflow%3ARelease)
+[![Release](https://github.com/almibarss/alfred-git-clone/workflows/Release/badge.svg)](https://github.com/mperezi/alfred-git-clone/actions?query=workflow%3ARelease)
 
 # alfred-git-clone
 
@@ -8,7 +8,7 @@ An [Alfred workflow](https://www.alfredapp.com/workflows/) to clone git repos li
 
 ## Install
 
-Download the latest version from [Releases](https://github.com/mperezi/alfred-git-clone/releases) and double click the downloaded file to install it.
+Download the latest version from [Releases](https://github.com/almibarss/alfred-git-clone/releases) and double click the downloaded file to install it.
 
 ## Usage
 

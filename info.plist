@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.github.mperezi.alfred.clone</string>
+	<string>com.github.almibarss.alfred.clone</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -185,7 +185,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>mperezi</string>
+	<string>almibarss</string>
 	<key>description</key>
 	<string></string>
 	<key>disabled</key>
@@ -718,6 +718,6 @@ fi</string>
 	<key>version</key>
 	<string>1.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/mperezi/alfred-git-clone</string>
+	<string>https://github.com/almibarss/alfred-git-clone</string>
 </dict>
 </plist>
